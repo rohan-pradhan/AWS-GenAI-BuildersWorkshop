@@ -1,6 +1,6 @@
 # Builder Workshop 1 - Prompt Engineering Lab
 
-## Introductioin 
+## Introduction 
 
 ### Foundation Models (Large Language Models)
 Foundation models are a class of generative AI models that are capable of understanding and generating human-like language at a massive scale. These LLMs are trained on vast amounts of text data, often on the order of billions of words or more, using techniques such as unsupervised learning and self-supervised learning. They are capable of generating high-quality human-like language across a wide range of tasks, including language translation, text summarization, and creative writing.
@@ -25,7 +25,7 @@ This lab contains exercises for SageMaker Jumpstart Generative AI, a tutorial se
 
 ## Accessing the Lab 
 
-First, navigate to this [link](https://catalog.us-east-1.prod.workshops.aws/join). You should see a page like this: 
+First, navigate to this [link](https://catalog.us-east-1.prod.workshops.aws/join?access-code=f5e7-092973-c6). You should see a page like this: 
 
 ![image_1](./assets/1.png)
 
